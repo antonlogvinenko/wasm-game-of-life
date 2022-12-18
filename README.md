@@ -7,4 +7,4 @@ npm install
 npm run start
 ```
 
-[wasm-pack] https://rustwasm.github.io/wasm-pack/installer/
+[wasm-pack](https://rustwasm.github.io/wasm-pack/installer/)
